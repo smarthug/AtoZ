@@ -1,0 +1,15 @@
+{
+ "name": "J",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/10.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "J"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}

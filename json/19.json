@@ -1,0 +1,15 @@
+{
+ "name": "S",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/19.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "S"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}

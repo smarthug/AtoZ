@@ -1,0 +1,15 @@
+{
+ "name": "F",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/6.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "F"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}

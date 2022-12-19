@@ -1,0 +1,15 @@
+{
+ "name": "E",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/5.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "E"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}

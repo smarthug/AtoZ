@@ -1,0 +1,15 @@
+{
+ "name": "K",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/11.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "K"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}

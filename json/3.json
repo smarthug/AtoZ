@@ -1,0 +1,15 @@
+{
+ "name": "C",
+ "description": "A letter of the alphabet with special powers",
+ "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/3.png",
+ "attributes": [
+  {
+   "trait_type": "character",
+   "value": "C"
+  },
+  {
+   "trait_type": "color",
+   "value": "white"
+  }
+ ]
+}
