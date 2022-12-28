@@ -1,15 +1,19 @@
 {
- "name": "B",
- "description": "A letter of the alphabet with special powers",
- "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/2.png",
- "attributes": [
-  {
-   "trait_type": "character",
-   "value": "B"
-  },
-  {
-   "trait_type": "color",
-   "value": "white"
-  }
- ]
+    "name": "B",
+    "description": "A letter of the alphabet with special powers",
+    "image": "https://raw.githubusercontent.com/smarthug/AtoZ/master/image/2.png",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "B"
+        },
+        {
+            "trait_type": "color",
+            "value": "white"
+        },
+        {
+            "trait_type": "test",
+            "value": "works"
+        }
+    ]
 }
